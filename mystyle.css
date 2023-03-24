@@ -1,0 +1,49 @@
+/* colors */
+
+body {
+    background-color: #F3EEC3;
+}
+
+.section-header {
+    color: #F7E3AF;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    padding: .5em;
+    background-color: #F7AF9D;
+    margin: .5em;
+}
+
+.card {
+    background-color: #C08497;
+    color: #F7E3AF;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.contact-form {
+    background-color: #B0D0D3;
+    color: #F7E3AF;
+    width: 80%;
+    padding: 2em;
+    border-radius: 10%;
+    margin-left: auto;
+    margin-right:auto;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+footer {
+    background-color: #F7AF9D;
+}
+
+.hero-section {
+    background-image: url("thenuke.jpeg");
+    background-size: 100%;
+    padding: 6em;
+    color:#F7E3AF;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+
+}
+
+.jumbotron {
+    flex-direction: column;
+}
